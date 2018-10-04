@@ -1,0 +1,9 @@
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\netcoreapp2.0\ShapeAreaCalc.deps.json
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\netcoreapp2.0\ShapeAreaCalc.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\bin\Debug\netcoreapp2.0\ShapeAreaCalc.pdb
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.csprojAssemblyReference.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.csproj.CoreCompileInputs.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.AssemblyInfoInputs.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.AssemblyInfo.cs
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaCalc\obj\Debug\netcoreapp2.0\ShapeAreaCalc.pdb

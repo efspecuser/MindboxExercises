@@ -1,0 +1,17 @@
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaTests.deps.json
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaTests.runtimeconfig.json
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaTests.runtimeconfig.dev.json
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaTests.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaTests.pdb
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaCalc.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\bin\Debug\netcoreapp2.0\ShapeAreaCalc.pdb
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.csprojAssemblyReference.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.csproj.CoreCompileInputs.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.AssemblyInfoInputs.cache
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.AssemblyInfo.cs
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.csproj.CopyComplete
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.dll
+C:\C# projects\ShapeAreaCalc\ShapeAreaTests\obj\Debug\netcoreapp2.0\ShapeAreaTests.pdb
