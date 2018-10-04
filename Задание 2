@@ -1,0 +1,56 @@
+В базе данных MS SQL Server есть продукты и категории. Одному продукту может соответствовать много категорий, 
+в одной категории может быть много продуктов. Напишите SQL запрос для выбора всех пар «Имя продукта – Имя категории». 
+Если у продукта нет категорий, то его имя все равно должно выводиться.
+
+
+
+Решение.
+Создадим три таблицы:
+create table Products
+(
+	id int identity primary key,
+	name nvarchar(50)
+);
+
+create table Categories
+(
+	id int identity(1000, 10) primary key,
+	name nvarchar(50)
+);
+
+create table Association
+(
+	id int identity primary key,
+	ProductId int not null,
+	CategoryId int not null,
+	foreign key (ProductId) references Products(id),
+	foreign key (CategoryId) references Categories(id)
+);
+
+Заполним их данными:
+insert into Products
+values ('Laptop'), ('PC'), ('Tablet')
+
+insert into Categories
+values ('Premium'), ('Budget')
+
+insert into Association(ProductId, CategoryId)
+values (1, 1000), -- only premium laptops
+	(2, 1000), (2, 1010) -- premium and budget PCs
+ 
+ 
+ Запрос, выводящий все пары Продукт-Категория:
+ with cat_join
+as
+(
+	select A.ProductId, C.name as cat
+	from Association as A
+	join Categories as C
+	on C.id = A.CategoryId
+)
+select P.name as prod, CJ.cat
+from Products as P
+left outer join cat_join as CJ
+	on CJ.ProductId = P.id
+  
+  
